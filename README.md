@@ -8,7 +8,7 @@ Die Kaffee Maschine der FHWS am SHL nachträglich mit einer 'Füllstandsanzeige'
      http://www.ebay.de/itm/WeMos-D1-WiFi-ESP8266-IoT-im-UNO-Format-NodeMCU-Lua-ESP-12E-DIY-Arduino-IDE-E24-/172436939911?var=&hash=item28260ae487:g:cg8AAOSw-0xYSy7y
     * Variante 2  
      https://www.ebay.de/itm/NodeMcu-Lua-WIFI-Netzwerk-entwicklungs-board-basiert-ESP8266-CP2102-Board-TE390/281892539846?_trkparms=aid%3D555018%26algo%3DPL.SIM%26ao%3D2%26asc%3D46153%26meid%3D38c5c7ce32e24b6ea4abd20b38c03c5b%26pid%3D100005%26rk%3D1%26rkt%3D6%26mehot%3Dag%26sd%3D122751004851&_trksid=p2047675.c100005.m1851
-* Wägeelement:  
+* Wägezelle:  
     * Variante 1  
       https://www.ebay.de/itm/4Stuck-15cm-Bridge-Karosserie-Wagezellenwaage-Elektronische-Wagezelle-50Kg-/351943785939?hash=item51f17bfdd3:g:U3gAAOSwCMFZ5nbo
     * Variante 2  
@@ -35,7 +35,7 @@ Die Kaffee Maschine der FHWS am SHL nachträglich mit einer 'Füllstandsanzeige'
 
 ### ToDo:
 
-- [ ] Gesammtgewicht ermitteln um die max. Belastung pro Wägeelement zu ermitteln bzw. passendes Wägeelement zu ermitteln.
+- [ ] Gesammtgewicht ermitteln um die max. Belastung pro Wägezelle zu ermitteln bzw. passendes Wägezelle zu ermitteln.
 - [ ] Einbindung in Fachschaftswebsite / Twitter / Benachrichtigung per Push
 - [ ] Dokumentation
 
