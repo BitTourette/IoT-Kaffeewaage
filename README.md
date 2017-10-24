@@ -1,5 +1,5 @@
 # IoT-Kaffeewaage
-Die Kaffee Maschine der FHWS in Würzburg nachträglich mit einer 'Füllstandsanzeige' anhand einer Waage unterhalb der Kaffeemaschine
+Die Kaffee Maschine der FHWS am SHL nachträglich mit einer 'Füllstandsanzeige' anhand einer Waage unterhalb der Kaffeemaschine erweitern.
 
 
 ### Benötigte Teile:
