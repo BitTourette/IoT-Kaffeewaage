@@ -15,6 +15,7 @@ Die Kaffee Maschine der FHWS am SHL nachträglich mit einer 'Füllstandsanzeige'
 ### ToDo:
 
 - [ ] Gesammtgewicht ermitteln um die max. Belastung pro Wägeelement zu ermitteln bzw. passendes Wägeelement zu ermitteln.
+- [ ] Einbindung in Fachschaftswebsite / Twitter / Benachrichtigung per Push
 
 ### Gedanken:
 
