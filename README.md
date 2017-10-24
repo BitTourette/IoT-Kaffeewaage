@@ -10,10 +10,9 @@ Die Kaffee Maschine der FHWS am SHL nachträglich mit einer 'Füllstandsanzeige'
     * Variante 1  [Link](https://www.ebay.de/itm/4Stuck-15cm-Bridge-Karosserie-Wagezellenwaage-Elektronische-Wagezelle-50Kg-/351943785939?hash=item51f17bfdd3:g:U3gAAOSwCMFZ5nbo)
     * Variante 2  [Link](https://www.ebay.de/itm/5KG-Bewegliche-Waage-Wiegesensor-Wagezelle-mit-HX711AD-Gewicht-Sensor-Modul-/142311366767?hash=item21226b206f:g:q4cAAOSwWxNYxkyI)
 
-* 2 x [HX711AD]  [Link](https://www.ebay.de/itm/5PCS-Arduino-HX711-Sensor-Dual-Channel-24-Bit-Precision-A-D-Module-TE201-/381273089433?hash=item58c5a5a599:g:kGAAAOSw9eVXVXMF) 
+* 2 x HX711AD A/D Wandler [Link](https://www.ebay.de/itm/5PCS-Arduino-HX711-Sensor-Dual-Channel-24-Bit-Precision-A-D-Module-TE201-/381273089433?hash=item58c5a5a599:g:kGAAAOSw9eVXVXMF) 
 * Lochrasterplatine
 * Steckerleiste
-* HX711AD [Library](https://github.com/bogde/HX711)
 * Gehäuse [Link](https://www.ebay.de/itm/Industriegehause-Leergehause-Verteilerkasten-Schaltschrank-Verteilergehause-/191727919905?var=&hash=item2ca3dfe321:g:DNgAAOSwwbdWNJdn)
 * Netzteil   
     * Variante 1  [Link](http://www.ebay.de/itm/MeanWell-Netzteile-RS-Serie-Schaltnetzteile-3-3V-5V-12V-15V-24V-48V-/231152362481?var=&hash=item35d1c123f1:g:EVAAAOSwiYFXEe04)
@@ -42,5 +41,5 @@ Die Kaffee Maschine der FHWS am SHL nachträglich mit einer 'Füllstandsanzeige'
 
 ### Linksammlung:
 * [WPA2 Enterprise with ESP8266](https://www.hallgeirholien.no/post/esp8266-eap/)
-
+* [HX711AD Library](https://github.com/bogde/HX711)
 
