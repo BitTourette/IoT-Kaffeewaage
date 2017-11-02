@@ -37,6 +37,7 @@ Die Kaffee Maschine der FHWS am SHL nachträglich mit einer 'Füllstandsanzeige'
 
 * Ist es evtl sinvoller eine vorhandene Waage zu hacken und die Bauteile zu benutzen (direkte verwendung des vorhandenne (Glas-)Gehäuses)?
 * Koffeinkammer zeitgesteuert wieder öffnen nachdem der Kaffee fertig ist?
+* benachrichtigungen über Status per Push/Chatbot/Facebook/Ampel
 
 
 ### Linksammlung:
